@@ -1,11 +1,5 @@
-node_modules
+.ipynb_checkpoints
 .env
-coverage
-coverage.json
-typechain
-
 *.url
+Incident_AIS_From2022-09-01_To2022-10-07.csv
 
-#Hardhat files
-cache
-artifacts
