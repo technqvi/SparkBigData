@@ -1,5 +1,5 @@
 # About
-Use Apache Spark to Perform ETL on big data  at the scale, We focus on 3 topics to implement on most projects.
+Use Apache Spark to Perform ETL on big data  at the scale, We practice the following topics to implement on most projects focusing on [Pandas API on Spark](https://spark.apache.org/docs/latest/api/python/reference/pyspark.pandas/index.html) that make it easier for you to move from developing on Pasdas to Spark.
 * [Spark SQL](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html)
 * [Pandas API on Spark](https://spark.apache.org/docs/latest/api/python/reference/pyspark.pandas/index.html)
 * [Structured Streaming](https://spark.apache.org/docs/latest/api/python/reference/pyspark.ss/index.html)
